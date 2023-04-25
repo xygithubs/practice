@@ -18,3 +18,7 @@ I am at NYP
 Block S
 Room 540
 ```
+
+### Code Line
+`sudo raspi-config`
+
